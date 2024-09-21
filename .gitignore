@@ -1,0 +1,8 @@
+.DS_STORE
+*.ipynb_checkpoints/
+passwords.py
+__pycache__/
+stories.db
+resources
+.venv/
+fasttext_model/
